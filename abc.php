@@ -61,7 +61,8 @@ font-size:20px;
 <form name="表單" method="post" action="1232.php">
 姓名  :<input type="text" name="name_pt" vlaue="name"><BR>
 病歷號:<input type="text" name="rf_date" vlaue="no" ><BR>
-<input type="submit" value="送出">
+<input type="sub
+('mit" value="送出">
 </form>
 </div>
 <div class="bgimg02">
@@ -71,6 +72,7 @@ font-size:20px;
 <div class="bgimg04">
 </div><!-- End pf bgimg04-->
 </body>
+
 </html>
 
 
